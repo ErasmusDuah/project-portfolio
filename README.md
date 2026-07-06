@@ -1,9 +1,7 @@
 # project-portfolio
 Selected projects and coursework showcasing my technical skills and learning progress.
 
-## Projects
+## Personal Projects and study
 - Ghanaian odds market inefficiency analysis system (https://github.com/ErasmusDuah/ghanaian-odds-market-inefficiency-analysis-system)
 
-## Coursework
-
-- Coursework name: (https://github.com/your-username/coursework-name) - Short description of the assignment/topic.
+- Self driving car study with js simulation (https://github.com/ErasmusDuah/self-driving-car-study-with-js-simulation)
