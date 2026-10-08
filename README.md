@@ -3,7 +3,7 @@
 Application of Graph Theory in the spread of fake news : https://drive.google.com/file/d/1oLNYgEMJzsygat_yiJmkyvmwZoTIAoDW/view?usp=drivesdk
 
 ## Personal Projects Portfolio
-- Ghanaian odds market inefficiency analysis system : https://github.com/ErasmusDuah/ghanaian-odds-market-inefficiency-analysis-system
+- Sports Betting Market Inefficiency Analyzer(Arbitrage) : https://github.com/ErasmusDuah/ghanaian-odds-market-inefficiency-analysis-system
 - Seasonal Time Series Forecasting with SARIMA : https://github.com/ErasmusDuah/Arctic-Sea-Ice-Extent-SARIMA-Forecasting-Analysis
 - Self driving car study with js simulation : https://github.com/ErasmusDuah/self-driving-car-study-with-js-simulation
 
